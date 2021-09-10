@@ -1,0 +1,5 @@
+- 👋 Olá, sou  o Luis
+- 👀 Meu objetivo é focar na área de criação de Jogo
+- 🌱 Atualmente estou aprendendo HTML, CSS e JS
+- 💞️ Estou trabalhando em um novo Jogo!
+- 📫 Como chegar até mim: Pelo meu e-mail luismayconrp@gmail.com
