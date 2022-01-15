@@ -1,5 +1,6 @@
-- 👋 Olá, sou o Luis 
+- 👋 "Opa, eai?" eu sou o Luis, e aqui está um pouco sobre mim:
 - 📃 Estudante de Programação
-- 👀 Área: Criação de Jogos
-- 🧩 Atualmente estou aprendendo HTML, CSS e JS
+- 👀 Área: Desenvolvimento de Jogos, Desenvolvimento Web, Minecraft Addons Maker(Bedrock Edition) 
+- 🧩 Conhecimento: 🎮Games (Lua e Game Maker Language),  💻Web (HTML, CSS, JavaScript, Figma e Bootstrap)
+- 📗 Atualmente Aprendendo: C#, JSON, PHP e MySql
 - 📫 Como chegar até mim: Pelo meu e-mail luismayconrp@gmail.com
