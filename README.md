@@ -17,4 +17,4 @@
     <a href="https://imgbb.com/"><img height="180em" src="https://i.ibb.co/Mn1R0hD/download20220106213840.png" border="0"></a>
   </div>
   
-  ![Snake animation]()
+  ![Snake animation](https://github.com/rafaballerini/lewism-dev/blob/output/github-contribution-grid-snake.svg)
