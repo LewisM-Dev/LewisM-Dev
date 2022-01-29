@@ -22,15 +22,15 @@ const Lewis = {
  Sobre mim: "Aficionado em Programação, sempre disposto a aprender"
  Hobbies: "Animações, Xadrez, Automobilismo"
  Contato: {
-  Email:[luismayconrp@gmail.com]
+  Email:["luismayconrp@gmail.com"]
  }
 }
 ```
 
 <div align="center">
   <a href="https://github.com/LewisM-Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lewism-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewism-dev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lewism-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewism-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div align="center"> 
