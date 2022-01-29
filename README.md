@@ -1,8 +1,27 @@
 - 👋 "Opa, eai?" eu sou o Luis, e aqui está um pouco sobre mim:
-- 👀 Área: Desenvolvimento de Jogos, Desenvolvimento Web, Minecraft Addons Maker(Bedrock Edition) 
-- 🧩 Conhecimento: 🎮Games (Lua e Game Maker Language),  💻Web (HTML, CSS, JavaScript, Figma e Bootstrap)
-- 📗 Atualmente Aprendendo: C#, JSON, PHP e MySql
-- 📫 Como chegar até mim: Pelo meu e-mail luismayconrp@gmail.com
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%236BC868&size=26&duration=3700&center=verdadeiro&vCenter=verdadeiro&height=100&lines=+%F0%9F%92%BB+Desenvolvedor+Front-End;+%F0%9F%8E%AE+Desenvolvedor+de+Games;+%E2%9B%8F%EF%B8%8F+Minecraft+Addon+Creator" alt="typing-svg"></a>
+</div>
+
+```javascript
+const Lewis = {
+  Área: {Desenvolvimento de Jogos, Desenvolvimento Web, Minecraft Addons Creator(Bedrock Edition)}
+  Linguagens: {🎮Games: [Lua e Game Maker Language],  💻Web: [HTML, CSS, JavaScript]},
+  Ferramentas: [Figma, Bootstrap]
+  Atualmente Aprendendo: [
+                        C#,
+                        JSON,
+                        PHP,
+                        MySql
+                      ],
+ Sobre mim: "Aficionado em Programação, sempre disposto a aprender"
+ Hobbies: "Animações, Xadrez, Automobilismo"
+ Contato: {
+  Email:[luismayconrp@gmail.com]
+ }
+}
+```
 
 <div align="center">
   <a href="https://github.com/LewisM-Dev">
