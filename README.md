@@ -26,12 +26,6 @@ const Lewis = {
  }
 }
 ```
-
-<div align="center">
-  <a href="https://github.com/LewisM-Dev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lewism-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewism-dev&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 <div align="center"> 
   <a href="https://instagram.com/lewis_maycon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
