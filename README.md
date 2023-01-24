@@ -32,6 +32,6 @@ const Lewis = {
   <a href = "mailto:luismayconrp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luis-maycon-ab8314221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
 </div>
-
-
+<br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabiiSantana&show_icons=true&locale=en&layout=compact" alt="GabiiSantana" /><br><br>
 <div align="center"><img src="https://github.com/lewism-dev/lewism-dev/blob/output/github-contribution-grid-snake.svg"></div>
