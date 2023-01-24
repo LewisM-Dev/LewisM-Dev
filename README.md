@@ -31,6 +31,8 @@ const Lewis = {
   <a href="https://instagram.com/lewis_maycon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luismayconrp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luis-maycon-ab8314221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
+ <br><br>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lewism-dev&show_icons=true&locale=en&layout=compact" alt="GabiiSantana" />
+ <br><br>
 </div>
 <div align="center"><img src="https://github.com/lewism-dev/lewism-dev/blob/output/github-contribution-grid-snake.svg"></div>
